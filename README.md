@@ -46,9 +46,11 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
 <h3>My Social</h3>
 <p>
   <a href="https://www.instagram.com/nima_jamalian" target="_blank">
-  <img alt="Instgram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <img alt="Instgram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/nima_jamalian" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </p>
