@@ -20,6 +20,11 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+<h3>Things I use for design</h3>
+<p>
+  <img alt="Affinity Designer" src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
+  <img alt="Affinity Photo" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />
+</p>
 <!---
 Here are some ideas to get you started:
 
