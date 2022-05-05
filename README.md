@@ -27,6 +27,7 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
 </p>
 <h3>Things I use genrally</h3>
 <p>
+  <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 <!---
