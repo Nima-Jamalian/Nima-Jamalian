@@ -60,5 +60,3 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
 </p>
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Jamalian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://visitor-badge.glitch.me/badge?page_id=Nima-Jamalian)
