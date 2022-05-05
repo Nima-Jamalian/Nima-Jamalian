@@ -2,7 +2,6 @@
 
 I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming and designing things. I'm a PhD researcher in Computer Science at Goldsmiths University of London, focusing on Virtual Reality and Hand Tracking. Currently, I work with a mix of technology, mostly Unity Development and Web Development.
 
-![](https://visitor-badge.glitch.me/badge?page_id=Nima-Jamalian)
 <h3>Things I code with 🔨</h3>
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
@@ -61,3 +60,5 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
 </p>
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Jamalian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Nima-Jamalian)
