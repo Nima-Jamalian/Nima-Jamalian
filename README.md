@@ -1,6 +1,7 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming and designing things. I'm a PhD researcher in Computer Science at Goldsmiths University of London, focusing on Virtual Reality and Hand Tracking. Currently, I work with a mix of technology, mostly Unity Development and Web Development.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Jamalian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Things I code with 🔨</h3>
 <p>
@@ -58,4 +59,4 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
   <img alt="Instgram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Jamalian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
