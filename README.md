@@ -1,8 +1,8 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming and designing things. I'm a PhD researcher in Computer Science at Goldsmiths University of London, focusing on Virtual Reality and Hand Tracking. Currently, I work with a mix of technology, mostly Unity Development and Web Development.
+I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, designing and creating products. I'm a PhD researcher in Computer Science at Goldsmiths University of London, focusing on Virtual Reality and Hand Tracking. Currently, I work with a mix of technology, mostly Unity Development and Web Development.
 
-<h3>Things I code with 🔨</h3>
+<h3>Tools I code with 🔨</h3>
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -21,18 +21,18 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming an
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-<h3>Things I want to learn 📒</h3>
+<h3>Tools I want to learn 📒</h3>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
-<h3>Things I use for design 🎨</h3>
+<h3>Tools I use for design 🎨</h3>
 <p>
   <img alt="Affinity Designer" src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
   <img alt="Affinity Photo" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />
 </p>
-<h3>Things I use genrally 💻</h3>
+<h3>Tools I use genrally 💻</h3>
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
