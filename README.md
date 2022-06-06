@@ -1,4 +1,4 @@
-# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, designing and creating products. I'm a PhD researcher in Computer Science at Goldsmiths University of London, focusing on Virtual Reality and Hand Tracking. Currently, I work with a mix of technology, mostly Unity Development and Web Development.
 
