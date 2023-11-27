@@ -56,9 +56,6 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-<h3> Ex </h3>
-<img alt="Nokia" src="https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white" />
-
 <h3>My Social 🌎</h3>
 <p>
   <a href="https://www.linkedin.com/in/nima-jamalian/" target="_blank">
