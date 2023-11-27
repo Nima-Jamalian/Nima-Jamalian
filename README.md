@@ -36,7 +36,7 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Electron" src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
 </p>
     
-<h3> OS/Dev Environment and Other.. 💻 </h3>
+<h3> OS/Dev Environment and Other... 💻</h3>
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
