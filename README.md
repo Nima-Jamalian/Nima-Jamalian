@@ -55,7 +55,7 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-<h3> Writint, organization and analytic 🗂️</h3>
+<h3> Writing, organization and analytic 🗂️</h3>
 <p>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img alt="LaText" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
