@@ -73,10 +73,10 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   </a>
   <a href="https://twitter.com/nimajamalian" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
+<!--   </a>
   <a href="https://www.instagram.com/nima_jamalian" target="_blank">
   <img alt="Instgram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
 
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-Jamalian&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
