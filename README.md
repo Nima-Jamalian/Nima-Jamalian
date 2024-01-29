@@ -29,7 +29,7 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h3>Tools I want to learn 💡</h3>
+<h3>I want to learn 💡</h3>
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
