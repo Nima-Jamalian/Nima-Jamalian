@@ -67,11 +67,11 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
 
 <h3>My Social 🌎</h3>
 <p>
-  <a href="https://www.linkedin.com/in/nima-jamalian/" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.youtube.com/channel/UCoxRZutoV4F_tII4Ce2Kt-g/videos" target="_blank">
   <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/nima-jamalian/" target="_blank">
+  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/nimajamalian" target="_blank">
   <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
