@@ -1,6 +1,6 @@
 # Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height ="30px">
 
-I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, designing and creating products. I'm a lecturer in Games Progamming and PhD researcher in Computer Science at Goldsmiths University of London. Experince develooper in Games, VR and AR application. I work with a mix of technology, currently mostly doing Godot, Unity and Web Development.
+I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, designing and creating products. I'm a lecturer and researcher in computing at Goldsmiths University of London. I specialize in game development and spatial computing. Developer with experience in games, VR, and AR applications. I work with a mix of technologies, currently mostly doing Godot, Unity and some Web Development.
 
 <h3>Programming Languages 👨🏻‍💻 </h3>
   <p>
