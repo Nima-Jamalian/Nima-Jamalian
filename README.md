@@ -34,12 +34,11 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
 </p>
 
-<h3>Version Control 🗂️</h3>
+<h3>Version Control 🗄️</h3>
 <p>
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
 
 <h3>I want to learn 💡</h3>
 <p>
