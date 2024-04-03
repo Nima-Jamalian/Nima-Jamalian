@@ -12,13 +12,13 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)"/>
   </p>
 
-<h3>Game/Creative Engines 🔨</h3>
+<h3>Game/Creative Engines 🎮</h3>
   <p>
     <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     <img alt="Godot" src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" />
   </p>
   
-<h3>Web Dev Stack 🔨</h3>
+<h3>Web Dev Stack 🌏</h3>
   <p>
     <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,12 +28,17 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
     <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
   </p>
 
-<h3>Tools I code with 🔨</h3>
+<h3>Backend Server 🗂️</h3>
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
+
+<h3>Version Control 🗂️</h3>
+<p>
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 <h3>I want to learn 💡</h3>
 <p>
