@@ -60,7 +60,7 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whit" />
 </p>
 
-<h3> Data Analysis 🗂️</h3>
+<h3> Data Analysis 🔎</h3>
 <p>
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whit" />
 </p>
