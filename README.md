@@ -43,7 +43,7 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3>2D/3D Design 🎨</h3>
+<h3>2D / 3D Design 🎨</h3>
 <p>
   <img alt="Affinity Designer" src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" />
   <img alt="Affinity Photo" src="https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" />
