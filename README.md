@@ -57,7 +57,6 @@ I'm Nima, a Software Engineer living in London 🇬🇧 who loves programming, d
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img alt="LaText" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
   <img alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whit" />
 </p>
 
 <h3> Data Analysis 🔎</h3>
